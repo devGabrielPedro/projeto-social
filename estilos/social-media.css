@@ -1,0 +1,47 @@
+@charset "UTF-8";
+
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: transparent;
+}
+
+::-webkit-scrollbar {
+    width: 0px;
+    height: 0px;
+}
+
+img {
+    width: 100%;
+}
+
+a.linkedin {
+    display: block;
+    background-color: #0A66C2;
+    color: white;
+    padding: 8px;
+    text-align: center;
+    font-weight: bolder;
+    text-decoration: none;
+}
+
+a.github {
+    display: block;
+    background-color: #673281;
+    color: white;
+    padding: 8px;
+    text-align: center;
+    font-weight: bolder;
+    text-decoration: none;
+}
+
+a.instagram {
+    display: block;
+    background-color: #d62976;
+    color: white;
+    padding: 8px;
+    text-align: center;
+    font-weight: bolder;
+    text-decoration: none;
+}
